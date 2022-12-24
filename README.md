@@ -1,2 +1,2 @@
 # Playground
- just for playing perpose
+ just for playing purpose
